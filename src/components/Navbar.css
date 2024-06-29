@@ -1,0 +1,59 @@
+.Navbar{
+    display: flex;
+    background-color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #e5efff;
+    text-decoration: none;
+    color: black;
+    font-family: 'Kenyan Coffee';
+}
+
+nav li {
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.nav1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    background-image: linear-gradient(#a1adc2,#d2e0fa);
+    text-decoration: none;
+    color: black;
+}
+
+.nav1 li {
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    padding:15px;
+}
+.nav1 li:hover {
+    background-color :#ffa700;
+}
+
+.nav1 li:active {
+    background-color :#ffa700;
+}
+
+.Logo {
+    height: 40px;
+    width: 35px;
+}
+.heading {
+    display: flex;
+}
