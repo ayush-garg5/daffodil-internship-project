@@ -5,8 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+<img width="1440" alt="Screenshot 2024-05-28 at 5 49 29 PM" src="https://github.com/ayushgrrg/daffodil-internship-project/assets/147721851/657508d3-11d7-4e86-afe2-d41d92aa258c">
 
-### `npm start`![Uploading Screenshot 2024-05-28 at 5.49.29 PM.png…]()
+
+### `npm start`
 
 
 Runs the app in the development mode.\
